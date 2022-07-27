@@ -1,0 +1,121 @@
+/*
+    Theme Name: Bootstrap Basic Child
+    Template: bootstrap-basic
+    Version: 1.0
+    Author: Lucy Linder
+    License: GNU General Public License v2.0 / License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+@import url("../bootstrap-basic/style.css");
+
+
+/*
+  colors
+    yellow          #FCC11A     rgba(252, 193, 26, 0.2)
+    light yellow    #FFE09F     rgba(255, 224, 159, 0.1)
+    blue            #466EAE     rgba(70, 110, 174, 1)
+*/
+
+/*-------------- general*/
+
+body {
+    text-align: justify;
+    background-color: rgba(172, 212, 255, 0.1) !important;
+}
+body a, body a:hover, body a:active {
+   color: #466EAE; 
+}
+
+body a:hover, body a:active {
+    text-decoration: underline;
+}
+
+
+h1, .h1, h2, .h2, h3, .h3{
+font-family: 'Francois One', sans-serif !important;
+text-align: left;
+/*font-family: 'Signika', sans-serif !important;*/
+font-style: normal;
+}
+
+/*------------ header*/
+
+site-branding img {
+    padding-left: 30px;
+}
+
+/*---------navigation bar*/
+
+nav.navbar {
+    border: none;
+    box-shadow: none;
+    background: none;
+    border-bottom: 1px solid #466EAE;
+
+    font-family: 'Francois One', sans-serif !important;
+    font-size: 17px;
+
+}
+
+.navbar-default .navbar-nav a {
+    color: #466EAE !important;
+    font-size: 16px;
+}
+
+body .navbar-default .open > a {
+    background-color: transparent !important;
+    
+}
+body .navbar-default .open > a:hover, 
+body .navbar-default .open > a:focus{
+    background-color: rgba(255, 224, 159, 0.3) !important;
+}
+
+body .navbar-default .navbar-nav li[class*=current-menu] > a,
+body .navbar-default .navbar-nav .dropdown-menu .active a {
+/*body .dropdown-menu .active a:hover,*/
+/*body .dropdown-menu .active a:focus {*/
+    background-image: none !important;
+    background-color: transparent;
+    box-shadow: none;
+    text-decoration: underline !important;
+}
+
+body .navbar-default a:hover, 
+body .navbar-default a:focus{
+    background-image: none !important;
+    background-color: rgba(255, 224, 159, 0.3) !important;
+}
+
+/*when collapsed (phone)*/
+.navbar-default .navbar-collapse.in {
+    border-color: #466EAE;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+    background-color: rgba(252, 193, 26, 0.2) !important;
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 1000px) {   
+    .navbar-default .navbar-nav li a {
+        font-size: 15px; /* so that the menu stays in one row */
+        padding:7px;
+    }
+}
+
+/*large desktop*/
+@media (min-width: 1200px) { 
+    .navbar-default .navbar-nav li a {  
+        font-size: 17px;
+    }
+}
+
+/* border around article*/
+article {
+    /*border: none !important;*/
+    padding: 23px;
+    border: 1px solid rgba(70, 110, 174, 0.3);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: white !important;
+}

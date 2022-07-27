@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-04-07T15:55:42+00:00\n"
+"Last-Translator: LaszloPinter <pinter.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: Hungary\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "Display the social buttons as a widget."
+msgstr "Mutasd a social gombokat, mint egy widget (bigyó)."
+
+msgid "Add SocialLinkz buttons"
+msgstr "Adj SocialLinkz gombokat"
+
+msgid "This plugin help you sharing on the social network by adding facebook or twitter buttons."
+msgstr "Ez a plugin segít, hogy megoszd az oldalaidat a social network-ökön a Facebook és Twitter gombokkal."
+
+msgid "It is possible to manually insert the buttons in your post by adding the shortcode %s or %s"
+msgstr ""
+
+msgid "Display %s button?"
+msgstr "Mutasd a %s gombot?"
+
+msgid "The %s button:"
+msgstr "A %s gomb."
+
+msgid "To share the post on %s !"
+msgstr "Oszd meg a post-ot a %s-on !"
+
+msgid "Show the counter of this %s button:"
+msgstr "Mutasd a %s gomb számlálóját."
+
+msgid "The official %s button:"
+msgstr "A %s gomb:"
+
+msgid "The SSL websites may not work properly with this official button... Moreover the rendering is not perfect !"
+msgstr "A SSL oldalak esetleg nem jól működnek ezzel a gombbal... Sőt az oldal nem fog tökéletesen kirajzolódni!"
+
+msgid "Show the counter of this official %s button:"
+msgstr "Mutasd ennek a %s gombnak a számlálóját."
+
+msgid "Your %s pseudo:"
+msgstr "A te %s álneved:"
+
+msgid "Your FaceBook ID to enable Insight:"
+msgstr "A te Facebook IDd az Insight-hoz."
+
+msgid "Insight provides metrics around your content. See %s for futher details. To identify your Facebook ID, please visit the previous link and then click on Statistic of my website."
+msgstr "Insight statisztikát készít az oldaladról. Bővebbb információt a %s nyújt. Hogy megtudd a Facebook IDdat menj az előző linkre és válaszd a &quot;Statistic of my website&quot; linket."
+
+msgid "You may use an user id, an app id or a page id."
+msgstr "Használhatsz egy user id-t, app id-t, vagy oldal id-t."
+
+msgid "Your API key to be able to retrieve the counts (visit %s):"
+msgstr ""
+
+msgid "Default image:"
+msgstr "Alapértelmezett kép:"
+
+msgid "%s requires that an image is pinned. By default, the plugin will take the first image in the post but if there is not any image, this image will be used."
+msgstr "%s nek egy letűzött (pinned) képre van szüksége. Ez a plugin a cikk első képét fogja használni, de ha a cikkben nincs kép akkor ezt a képet használja."
+
+msgid "The maximum number of emails for each mailing:"
+msgstr "A legnagyobb számú levél ami egyszerre kimehet:"
+
+msgid "The name used to send the email:"
+msgstr "Az email feladójának a neve:"
+
+msgid "The mail address used to send the email:"
+msgstr "Az email feladójának az email címe:"
+
+msgid "You may use the admin email %s, a noreply address such as %s or any other email"
+msgstr "Használhatod az admin email címét %s, egy &quot;ne válaszolj&quot; címet, mint %s vagy bármilyen más email címet"
+
+msgid "Display all these buttons in the excerpt?"
+msgstr "Legyen az összes gomb látható az előzetesben?"
+
+msgid "These buttons should be displayed in excerpt:"
+msgstr "Ezek a gombok lesznek láthatók az előzetesben:"
+
+msgid "Where do you want to display the buttons in post?"
+msgstr "Hol akarod mutatni a gombokat a cikkben-ben?"
+
+msgid "At the Top:"
+msgstr "A tetején:"
+
+msgid "At the Bottom:"
+msgstr "Az alján:"
+
+msgid "Where do you want to display the buttons in page?"
+msgstr "Hol akarod mutatni a gombokat az oldalon?"
+
+msgid "Advanced options"
+msgstr "Haladóknak"
+
+msgid "Number of minutes between two refreshes:"
+msgstr "Két frissítés közötti idő percben:"
+
+msgid "HTML:"
+msgstr ""
+
+msgid "Default HTML is : %s with %s the displayed buttons"
+msgstr "Az alapértelmezett HTML: %s a %s mutatott gombokkal"
+
+msgid "CSS:"
+msgstr ""
+
+msgid "Default CSS is : %s"
+msgstr "Az alapértelmezett CSS: %s"
+
+msgid "Page to be excluded:"
+msgstr "Az oldal ami kimaradl:"
+
+msgid "Please enter one entry per line. If the page %s is to be excluded, you may enter %s."
+msgstr "Minden nevet írj külön sorba. Ha ki akarod hagyni a %s oldalt, írj %s-t."
+
+msgid "Parameters"
+msgstr "Paraméterek"
+
+msgid "Manage translations"
+msgstr "Fordítások karbantartása"
+
+msgid "Give feedback"
+msgstr "Küldj értékelést"
+
+msgid "Other plugins"
+msgstr "Egyéb pluginok"
+
+msgid "Share -%s- on %s"
+msgstr "Oszd meg %s -t a %s -on"
+
+msgid "Tweet"
+msgstr ""
+
+msgid "Print"
+msgstr "Nyomtat"
+
+msgid "Mail"
+msgstr "Levél"
+
+msgid "Send this article by email"
+msgstr "Küldd ezt a cikket email-ben"
+
+msgid "What is your name?"
+msgstr "Mi a neved?"
+
+msgid "Please indicate below the emails to which you want to send this article: %s"
+msgstr "Írd ide azokat az email címeket, ahová ezt a cikket küldeni akarod : %s"
+
+msgid "Enter one email per line. No more than %s emails."
+msgstr "Minden címet írj külön sorba. Maximum %s címet írhatsz ide."
+
+msgid "Close"
+msgstr "Bezárás"
+
+msgid "Send"
+msgstr "Küldés"
+
+msgid "Sending Report"
+msgstr "Statisztika küldése"
+
+msgid "Sorry, but you have not provided a name. Please refresh the current page and then retry."
+msgstr "Bocsi, de nem írtál nevet. Frissítsd az oldalt és próbáld újra."
+
+msgid "%s has recommended this article to you: %s"
+msgstr "%s ajánlotta ezt a cikket neked: %s"
+
+msgid "Here is an extract of the article:"
+msgstr "A cikk kivonata:"
+
+msgid "Email successfully sent to %s"
+msgstr "Az email elküldve %s -nek"
+
+msgid "Wordpress is unable to send an email to %s"
+msgstr "WordPress nem tud email-t küldeni %s -nek"
+

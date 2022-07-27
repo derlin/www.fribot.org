@@ -1,0 +1,35 @@
+services:
+  db:
+    # We use a mariadb image which supports both amd64 & arm64 architecture
+    image: mariadb:10.6.4-focal
+    # If you really want to use MySQL, uncomment the following line
+    #image: mysql:8.0.27
+    command: '--default-authentication-plugin=mysql_native_password'
+    volumes:
+      - ./db:/var/lib/mysql
+      - ./fribot.sql:/docker-entrypoint-initdb.d/fribot.sql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: &dbname fribot
+      MYSQL_USER: &dbuser wordpress
+      MYSQL_PASSWORD: &dbpass wordpress
+    expose:
+      - 3306
+      - 33060
+
+  wordpress:
+    image: wordpress:3.9.2
+    ports:
+      - 80:80
+    links:
+      - db
+    volumes:
+      - ./wordpress:/var/www/html
+    restart: always
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_NAME: *dbname
+      WORDPRESS_DB_USER: *dbuser
+      WORDPRESS_DB_PASSWORD: *dbpass
+      MYSQL_PORT_3306_TCP: tcp://db:3306

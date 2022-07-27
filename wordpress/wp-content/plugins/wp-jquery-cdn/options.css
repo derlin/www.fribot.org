@@ -1,0 +1,42 @@
+#options-form em { color: #A1A8B7; margin: 0 0 4px; padding: 0; }
+#options-form h1 { color: #858583; margin: 0 0 70px; padding: 0; }
+
+#options-form {
+position: relative;
+width: 360px;
+height: 260px;
+margin: 40px auto 0;
+padding: 20px;
+background: #f4f4f4; /* Old browsers */
+background: -moz-linear-gradient(top, #f4f4f4 0%, #e8e8e8 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f4f4f4), color-stop(100%,#e8e8e8)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #f4f4f4 0%,#e8e8e8 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #f4f4f4 0%,#e8e8e8 100%); /* Opera11.10+ */
+background: -ms-linear-gradient(top, #f4f4f4 0%,#e8e8e8 100%); /* IE10+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f4f4', endColorstr='#e8e8e8',GradientType=0 ); /* IE6-9 */
+background: linear-gradient(top, #f4f4f4 0%,#e8e8e8 100%); /* W3C */
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+-webkit-box-shadow: 0 0 2px #858583;
+-moz-box-shadow: 0 0 2px #858583;
+box-shadow: 0 0 2px #858583;
+}
+
+#options-form select {
+width: 100%;
+border: 1px solid white;
+background: #F9F9F9;
+box-shadow: -1px -1px 1px #A1A8B7;
+color: #51514F;
+-webkit-box-shadow: -1px -1px 1px #A1A8B7;
+-moz-box-shadow: -1px -1px 1px #A1A8B7;
+box-shadow: -1px -1px 1px #A1A8B7;
+display: block;
+}
+
+#options-form .button-primary {
+float: right;
+}
+
+.shameless-plug { position: absolute; left: 20px; bottom: -25px; font-size: 10px; }

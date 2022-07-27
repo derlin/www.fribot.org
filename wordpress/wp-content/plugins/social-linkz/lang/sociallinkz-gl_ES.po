@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-04-07T15:51:14+00:00\n"
+"Last-Translator: prios <prios@dinahosting.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Poedit-Language: Galician\n"
+"X-Poedit-Country: Spain\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "Display the social buttons as a widget."
+msgstr ""
+
+msgid "Add SocialLinkz buttons"
+msgstr "Engadir botóns sociallinkz"
+
+msgid "This plugin help you sharing on the social network by adding facebook or twitter buttons."
+msgstr "Este plugin axúdache a compartir nas redes sociais engadindo os botóns de FaceBook ou Twitter"
+
+msgid "It is possible to manually insert the buttons in your post by adding the shortcode %s or %s"
+msgstr ""
+
+msgid "Display %s button?"
+msgstr "Mostras botón %s?"
+
+msgid "The %s button:"
+msgstr "%s botón..."
+
+msgid "To share the post on %s !"
+msgstr "Compartir o artigo en %s!"
+
+msgid "Show the counter of this %s button:"
+msgstr "Amosar o contador deste botón %s:"
+
+msgid "The official %s button:"
+msgstr "Botón oficial de %s:"
+
+msgid "The SSL websites may not work properly with this official button... Moreover the rendering is not perfect !"
+msgstr "Os sitios SSL poden non funcionar correctamente con este botón oficial ... Ademais, o proceso non é perfecto!"
+
+msgid "Show the counter of this official %s button:"
+msgstr "Amosar o contador deste botón oficial %s:"
+
+msgid "Your %s pseudo:"
+msgstr "O teu alcume en %s:"
+
+msgid "Your FaceBook ID to enable Insight:"
+msgstr "O teu ID do FaceBook para activares Insight:"
+
+msgid "Insight provides metrics around your content. See %s for futher details. To identify your Facebook ID, please visit the previous link and then click on Statistic of my website."
+msgstr ""
+
+msgid "You may use an user id, an app id or a page id."
+msgstr ""
+
+msgid "Your API key to be able to retrieve the counts (visit %s):"
+msgstr ""
+
+msgid "Default image:"
+msgstr "Imaxe por defecto:"
+
+msgid "%s requires that an image is pinned. By default, the plugin will take the first image in the post but if there is not any image, this image will be used."
+msgstr "%s precisa que se fixe unha imaxe. Por defecto, o plugin ha tomar a primeira imaxe do artigo, pero se non houberningunha, vai usar esta."
+
+msgid "The maximum number of emails for each mailing:"
+msgstr "Número máximo de mensaxes de correo electrónico para este envío:"
+
+msgid "The name used to send the email:"
+msgstr "Nome a utilizar para o envío:"
+
+msgid "The mail address used to send the email:"
+msgstr "Enderezo de correo a empregar para o envío:"
+
+msgid "You may use the admin email %s, a noreply address such as %s or any other email"
+msgstr "Podes usar o enderezo de admin %s, un enderezo noreply como %s ou calquera outro"
+
+msgid "Display all these buttons in the excerpt?"
+msgstr "Mostrar todos estes botóns no fragmento?"
+
+msgid "These buttons should be displayed in excerpt:"
+msgstr "Estes botóns deben ser mostrados no fragmento:"
+
+msgid "Where do you want to display the buttons in post?"
+msgstr "Onde queres mostrar os botóns no artigo?"
+
+msgid "At the Top:"
+msgstr "Arriba:"
+
+msgid "At the Bottom:"
+msgstr "Na parte inferior:"
+
+msgid "Where do you want to display the buttons in page?"
+msgstr "Onde queres mostrar os botóns na páxina?"
+
+msgid "Advanced options"
+msgstr "Opcións avanzadas"
+
+msgid "Number of minutes between two refreshes:"
+msgstr ""
+
+msgid "HTML:"
+msgstr "HTML:"
+
+msgid "Default HTML is : %s with %s the displayed buttons"
+msgstr "HTML por defecto é: %s con %s nos botóns que se mostran"
+
+msgid "CSS:"
+msgstr "CSS:"
+
+msgid "Default CSS is : %s"
+msgstr "CSS por defecto é: %s"
+
+msgid "Page to be excluded:"
+msgstr ""
+
+msgid "Please enter one entry per line. If the page %s is to be excluded, you may enter %s."
+msgstr ""
+
+msgid "Parameters"
+msgstr "Parámetros"
+
+msgid "Manage translations"
+msgstr "Xestionar traducións"
+
+msgid "Give feedback"
+msgstr "Deixar un comentario"
+
+msgid "Other plugins"
+msgstr "Outros plugins"
+
+msgid "Share -%s- on %s"
+msgstr "Compartir -%s- en %s"
+
+msgid "Tweet"
+msgstr "Chiar [tweet]"
+
+msgid "Print"
+msgstr "Imprimir"
+
+msgid "Mail"
+msgstr "Correo"
+
+msgid "Send this article by email"
+msgstr "Enviar esta entrada por correo electrónico"
+
+msgid "What is your name?"
+msgstr "Cal é o teu nome?"
+
+msgid "Please indicate below the emails to which you want to send this article: %s"
+msgstr "Por favor, introduce abaixo os correos para os que queres enviar esta entrada: %s"
+
+msgid "Enter one email per line. No more than %s emails."
+msgstr "Introduce un enderezo de correo por liña. Non máis do que %s enderezos de correo."
+
+msgid "Close"
+msgstr "Pechar"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Sending Report"
+msgstr "Enviar informe"
+
+msgid "Sorry, but you have not provided a name. Please refresh the current page and then retry."
+msgstr "Sentímoscho, pero non forneceches un nome. Por favor, actualiza a páxina actual e téntao de novo."
+
+msgid "%s has recommended this article to you: %s"
+msgstr "%s recoméndache este artigo: %s"
+
+msgid "Here is an extract of the article:"
+msgstr "Eis un estracto do artigo:"
+
+msgid "Email successfully sent to %s"
+msgstr "Correo enviado a %s con éxito"
+
+msgid "Wordpress is unable to send an email to %s"
+msgstr "Wordpress é incapaz de enviar o correo a %s"
+

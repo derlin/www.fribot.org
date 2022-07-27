@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-04-04T06:12:05+00:00\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: Sweden\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "Mail"
+msgstr "Mail"
+
+msgid "Send this article by email"
+msgstr "Send this article by email"
+
+msgid "What is your name?"
+msgstr "What is your name?"
+
+msgid "Please indicate below the emails to which you want to send this article: %s"
+msgstr "Please indicate below the emails to which you want to send this article: %s"
+
+msgid "Enter one email per line. No more than %s emails."
+msgstr "Enter one email per line. No more than %s emails."
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Sorry, but you have not provided a name. Please refresh the current page and then retry."
+msgstr "Sorry, but you have not provided a name. Please refresh the current page and then retry."
+
+msgid "%s has recommended this article to you: %s"
+msgstr "%s has recommended this article to you: %s"
+
+msgid "Email successfully sent to %s"
+msgstr "Email successfully sent to %s"
+

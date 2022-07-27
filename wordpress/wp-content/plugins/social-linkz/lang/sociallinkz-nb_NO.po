@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-03-21T09:45:09+00:00\n"
+"Last-Translator: Hakon <hakon.fanebust@hotmail.com>\n"
+"Last-Translator: Hkon <hakon.fanebust@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Norwegian (Bokmål)\n"
+"X-Poedit-Country: Norway\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "This plugin help you sharing on the social network by adding facebook or twitter buttons."
+msgstr "Dette innstikket hjelper deg å dele til sosiale nettverk ved å legge til knapper for Facebook eller Twitter."
+
+msgid "Display %s button?"
+msgstr "Vise %s-knapp?"
+
+msgid "The %s button:"
+msgstr "%s-knappen"
+
+msgid "To share the post on %s !"
+msgstr "For å dele innlegget på %s!"
+
+msgid "Show the counter of this %s button:"
+msgstr "Vis telleren for %s-knappen:"
+
+msgid "The official %s button:"
+msgstr "Den offisielle %s-knappen:"
+
+msgid "The SSL websites may not work properly with this official button... Moreover the rendering is not perfect !"
+msgstr "Nettsteder som benytter SSL virker kanskje ikke skikkelig med denne offisielle knappen... Det vil si, rendringen er ikke perfekt!"
+
+msgid "Show the counter of this official %s button:"
+msgstr "Vis telleren for den offisielle %s-knappen:"
+
+msgid "Your %s pseudo:"
+msgstr "Ditt %s-pseudo:"
+
+msgid "Your FaceBook ID to enable Insight:"
+msgstr "Facebook ID-en din for aktivere Insight:"
+
+msgid "Insight provides metrics around your content. See %shere%s for futher details. To identify your Facebook ID, please visit the previous link and then click on Statistic of my website"
+msgstr "Insight gir beregninger rundt innholdet ditt. Se %sher%s for flere detaljer. For å identifisere Facebook ID-en din, vennligst besøk forrige lenke og klikk på Statistikk for mitt nettsted"
+
+msgid "Display all these buttons in the excerpt ?"
+msgstr "Vise alle disse knappene i utdraget?"
+
+msgid "These buttons should be displayed in excerpt:"
+msgstr "Disse knappene skal vises i utdrag:"
+
+msgid "Where do you want to display the buttons in post ?"
+msgstr "Hvor ønsker du å vise knappene i innlegg?"
+
+msgid "At the Top:"
+msgstr "På toppen:"
+
+msgid "At the Bottom:"
+msgstr "På bunnen:"
+
+msgid "Parameters"
+msgstr "Parametere"
+
+msgid "Manage translations"
+msgstr "Behandle oversettelser"
+
+msgid "Give feedback"
+msgstr "Gi tilbakemelding"
+
+msgid "Other plugins"
+msgstr "Andre innstikk"
+
+msgid "Share -%s- on %s"
+msgstr "Del -%s på %s"
+
+msgid "Tweet"
+msgstr "Twitre"
+
+msgid "Print"
+msgstr "Skriv ut"
+

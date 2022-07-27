@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-04-07T16:04:36+00:00\n"
+"Last-Translator: OsmanERDOAN <http://www.osmanerdogan.com>\n"
+"Last-Translator: Hseyinzkan <huseyinozkan75@gmail.com>\n"
+"Last-Translator: BlentDnmez <www.nasihatler.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: Turkey\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "Display the social buttons as a widget."
+msgstr "Butonları widget gibi göster."
+
+msgid "Add SocialLinkz buttons"
+msgstr "SocialLinkz butonu ekle"
+
+msgid "This plugin help you sharing on the social network by adding facebook or twitter buttons."
+msgstr "Bu eklenti sosyal ağda paylaşıma yardımcı olmak için facebook ve twitter düğmelerini ekler."
+
+msgid "It is possible to manually insert the buttons in your post by adding the shortcode %s or %s"
+msgstr ""
+
+msgid "Display %s button?"
+msgstr "%s düğmesi gösterilsin mi?"
+
+msgid "The %s button:"
+msgstr "%s düğmesi:"
+
+msgid "To share the post on %s !"
+msgstr "Gönderiyi %s &#039;da paylaşmak !"
+
+msgid "Show the counter of this %s button:"
+msgstr "Bu %s düğmesinin sayacını göster:"
+
+msgid "The official %s button:"
+msgstr "Resmi %s düğmesi:"
+
+msgid "The SSL websites may not work properly with this official button... Moreover the rendering is not perfect !"
+msgstr "SSL web siteleri bu resmi düğmeyle düzgün bir şekilde çalışmayabilir."
+
+msgid "Show the counter of this official %s button:"
+msgstr "Resmi %s düğmesinin sayacını göster"
+
+msgid "Your %s pseudo:"
+msgstr "%s takma adınız:"
+
+msgid "Your FaceBook ID to enable Insight:"
+msgstr "Facebook istatistikleri için Facebook ID&#039;nizi yazınız."
+
+msgid "Insight provides metrics around your content. See %s for futher details. To identify your Facebook ID, please visit the previous link and then click on Statistic of my website."
+msgstr ""
+
+msgid "You may use an user id, an app id or a page id."
+msgstr ""
+
+msgid "Your API key to be able to retrieve the counts (visit %s):"
+msgstr ""
+
+msgid "Default image:"
+msgstr "Varsayılan resim:"
+
+msgid "%s requires that an image is pinned. By default, the plugin will take the first image in the post but if there is not any image, this image will be used."
+msgstr ""
+
+msgid "The maximum number of emails for each mailing:"
+msgstr "Her bir mail gönderiminde gönderim yapılacak maximum mail sayısı:"
+
+msgid "The name used to send the email:"
+msgstr "Mail göndermek için kullanılacak isim:"
+
+msgid "The mail address used to send the email:"
+msgstr "Mail göndermek için kullanılacak mail adresi:"
+
+msgid "You may use the admin email %s, a noreply address such as %s or any other email"
+msgstr ""
+
+msgid "Display all these buttons in the excerpt?"
+msgstr ""
+
+msgid "These buttons should be displayed in excerpt:"
+msgstr "Düğmeler bu şekilde gösterilecektir:"
+
+msgid "Where do you want to display the buttons in post?"
+msgstr "Butonlar yazının neresinde görünsün?"
+
+msgid "At the Top:"
+msgstr "Yazı üstünde çıksın"
+
+msgid "At the Bottom:"
+msgstr "Yazı altında çıksın"
+
+msgid "Where do you want to display the buttons in page?"
+msgstr ""
+
+msgid "Advanced options"
+msgstr ""
+
+msgid "Number of minutes between two refreshes:"
+msgstr ""
+
+msgid "HTML:"
+msgstr ""
+
+msgid "Default HTML is : %s with %s the displayed buttons"
+msgstr ""
+
+msgid "CSS:"
+msgstr ""
+
+msgid "Default CSS is : %s"
+msgstr ""
+
+msgid "Page to be excluded:"
+msgstr ""
+
+msgid "Please enter one entry per line. If the page %s is to be excluded, you may enter %s."
+msgstr ""
+
+msgid "Parameters"
+msgstr "Parametreler"
+
+msgid "Manage translations"
+msgstr "Çevirileri yönet"
+
+msgid "Give feedback"
+msgstr "Geri besleme veriniz"
+
+msgid "Other plugins"
+msgstr "Diğer eklentiler"
+
+msgid "Share -%s- on %s"
+msgstr "Paylaş -%s-  %s"
+
+msgid "Tweet"
+msgstr "Tweet"
+
+msgid "Print"
+msgstr "Yazdır"
+
+msgid "Mail"
+msgstr "Mail"
+
+msgid "Send this article by email"
+msgstr "Bu makaleyi e-posta ile gönder"
+
+msgid "What is your name?"
+msgstr "Adınız"
+
+msgid "Please indicate below the emails to which you want to send this article: %s"
+msgstr "Bu yazıyı göndermek istediğiniz kişi sayısı kadar e-posta adreslerini aşağıda belirtiniz : %s"
+
+msgid "Enter one email per line. No more than %s emails."
+msgstr "Her satıra bir e-posta girin. %s den fazla değil"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Send"
+msgstr "Yolla"
+
+msgid "Sending Report"
+msgstr "Gönderi Raporu"
+
+msgid "Sorry, but you have not provided a name. Please refresh the current page and then retry."
+msgstr "Geçerli bir isim girmediniz. Sayfayı yenileyin ve daha sonra yeniden deneyin."
+
+msgid "%s has recommended this article to you: %s"
+msgstr "%s size bu makaleyi tavsiye etti: %s"
+
+msgid "Here is an extract of the article:"
+msgstr ""
+
+msgid "Email successfully sent to %s"
+msgstr "E-posta %s başarıyla gönderildi"
+
+msgid "Wordpress is unable to send an email to %s"
+msgstr ""
+

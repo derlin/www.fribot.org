@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-10-25T21:48:43+00:00\n"
+"Last-Translator: EnriqueBran <http://www.fiestachapina.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: Guatemala\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "This plugin help you sharing on the social network by adding facebook or twitter buttons."
+msgstr "Este plugin te ayudará a compartir en la red social Facebook o mediante la adición de botones de twitter."
+
+msgid "Display %s button?"
+msgstr "Mostrar el botón %s?"
+
+msgid "The %s button:"
+msgstr "El botón %s:"
+
+msgid "To share the post on %s !"
+msgstr "¡Para compartir el artículo en %s !"
+
+msgid "Show the counter of this %s button:"
+msgstr "Mostrar el contador de botón %s :"
+
+msgid "The official %s button:"
+msgstr "El botón oficial %s :"
+
+msgid "The SSL websites may not work properly with this official button... Moreover the rendering is not perfect !"
+msgstr "Los sitios web SSL pueden no funcionar correctamente con este botón oficial... ¡Por otra parte la representación no es perfecta!"
+
+msgid "Show the counter of this official %s button:"
+msgstr "Mostrar el contador oficial del botón %s :"
+
+msgid "Your %s pseudo:"
+msgstr "Tu sobrenombre %s :"
+
+msgid "Display all these buttons in the excerpt ?"
+msgstr "¿Mostrar todos estos botones en el extracto?"
+
+msgid "These buttons should be displayed in excerpt:"
+msgstr "Estos botones serán mostrados en el extracto:"
+
+msgid "Where do you want to display the buttons in post ?"
+msgstr "¿En dónde quieres mostrar los botones en el post?"
+
+msgid "At the Top:"
+msgstr "En la parte superior:"
+
+msgid "At the Bottom:"
+msgstr "En la parte inferior:"
+
+msgid "Parameters"
+msgstr "Parámetros"
+
+msgid "Manage translations"
+msgstr "Administrar traducciones"
+
+msgid "This form is an easy way to contact the author and to discuss issues / incompatibilities / etc."
+msgstr "Este formulario es una manera fácil de contactar con el autor y discutir temas / incompatibilidades/ etc."
+
+msgid "Give feedback"
+msgstr "Deja tu comentario"
+
+msgid "Here is the plugins developped by the author"
+msgstr "Aquí está el plugin desarrollado por el autor"
+
+msgid "Other possible plugins"
+msgstr "Otros posibles plugins."
+
+msgid "Share -%s- on Facebook"
+msgstr "Compartir -%s- en Facebook"
+
+msgid "Share -%s- on Twitter"
+msgstr "Compartir -%s- en Twitter"
+
+msgid "Tweet"
+msgstr "Tweet"
+
+msgid "Print"
+msgstr "Imprimir"
+
+msgid "Here is the plugins developped by the author:"
+msgstr "Aquí está el plugin desarrollado por el autor"
+

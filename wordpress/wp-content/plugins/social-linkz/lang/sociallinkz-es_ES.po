@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-03-14T14:33:29+00:00\n"
+"Last-Translator: sesi <http://www.dandoporculo.com>\n"
+"Last-Translator: AlexSancho <alex@alexsancho.name>\n"
+"Last-Translator: fco <www.guzol.cl>\n"
+"Last-Translator: JavierLaChica <www.granadaonline.com>\n"
+"Last-Translator: Verto <vertofotografia.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: Spain\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "This plugin help you sharing on the social network by adding facebook or twitter buttons."
+msgstr "Este plugin te ayudara a compartir en las redes sociales añadiendo botones de facebook o twitter"
+
+msgid "Display %s button?"
+msgstr "Mostrar botón %s?"
+
+msgid "The %s button:"
+msgstr "El botón %s"
+
+msgid "To share the post on %s !"
+msgstr "Para compartir el artículo en %s !"
+
+msgid "Show the counter of this %s button:"
+msgstr "Mostrar el contador para este botón %s:"
+
+msgid "The official %s button:"
+msgstr "El botón oficial %s"
+
+msgid "The SSL websites may not work properly with this official button... Moreover the rendering is not perfect !"
+msgstr "Los sitios SSL no funcionan apropiadamente con este botón oficial... Ademas el renderizado no es perfecto!"
+
+msgid "Show the counter of this official %s button:"
+msgstr "Mostar el contador para el botón oficial %s"
+
+msgid "Your %s pseudo:"
+msgstr "Tu pseudo %s:"
+
+msgid "Your FaceBook ID to enable Insight:"
+msgstr "Tu ID de Facebook para habilitar las estadísticas:"
+
+msgid "Insight provides metrics around your content. See %shere%s for futher details. To identify your Facebook ID, please visit the previous link and then click on Statistic of my website"
+msgstr "Las estadísticas generan métricas sobre tu contenido. Mira %saquí%s para mas detalles. Para identificar tu ID de Facebook, visita el enlace precio y pulsa sobre estadísticas de mi sitio"
+
+msgid "Display all these buttons in the excerpt ?"
+msgstr "¿Mostrar estos botones en el extracto?"
+
+msgid "These buttons should be displayed in excerpt:"
+msgstr "Estos botones se tienen que mostrar en el extracto:"
+
+msgid "Where do you want to display the buttons in post ?"
+msgstr "¿En que parte del articulo quieres mostrar los botones?"
+
+msgid "At the Top:"
+msgstr "Al inicio"
+
+msgid "At the Bottom:"
+msgstr "Al pie"
+
+msgid "Parameters"
+msgstr "Parámetros"
+
+msgid "Manage translations"
+msgstr "Administrar traducciones"
+
+msgid "Give feedback"
+msgstr "Enviar comentarios"
+
+msgid "Other plugins"
+msgstr "Otros plugins"
+
+msgid "Share -%s- on %s"
+msgstr "Compartir -%s- en %s"
+
+msgid "Tweet"
+msgstr "Tweet"
+
+msgid "Print"
+msgstr "Imprimir"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Sending Report"
+msgstr "Enviar Reporte"
+
+msgid "Email successfully sent to %s"
+msgstr "Correo enviado a %s"
+
+msgid "Default image:"
+msgstr "Imagen por defecto"
+
+msgid "%s requires that an image is pinned. By default, the plugin will take the first image in the post but if there is not any image, this image will be used."
+msgstr "%s requiere que una imagen sea pineada. Por defecto, el plugin cogerá la primera imagen del artículo pero si éste no tiene imagen,esta imagen será usada."
+
+msgid "The maximum number of emails for each mailing:"
+msgstr "Nº máximo de correos por cada mailing"
+
+msgid "The name used to send the email:"
+msgstr "Nombre usado para enviar el correo"
+
+msgid "The mail address used to send the email:"
+msgstr "Dirección usada para enviar el correo:"
+
+msgid "You may use the admin email %s, a noreply address such as %s or any other email"
+msgstr "Puedes usar el correo de administrador %s, un buzón  noreply en vez de %s u otro correo"
+
+msgid "Display all these buttons in the excerpt?"
+msgstr "¿Mostrar estos botones en el extracto?"
+
+msgid "Where do you want to display the buttons in post?"
+msgstr "¿En que parte del articulo quieres mostrar los botones?"
+
+msgid "Where do you want to display the buttons in page?"
+msgstr "¿En que parte de la página quieres mostrar los botones?"
+
+msgid "Advanced options"
+msgstr "Opciones avanzadas"
+
+msgid "HTML:"
+msgstr "HTML:"
+
+msgid "Default HTML is : %s with %s the displayed buttons"
+msgstr "Por defecto el HTML es: %s con %s mostrado en los botones"
+
+msgid "CSS:"
+msgstr "CSS:"
+
+msgid "Default CSS is : %s"
+msgstr "Opciones por defecto CSS son: %s"
+
+msgid "Mail"
+msgstr "Correo"
+
+msgid "Send this article by email"
+msgstr "Enviar este artículo por correo"
+
+msgid "What is you name?"
+msgstr "¿ Cual es tu nombre?"
+
+msgid "Please indicate below the emails to which you want to send this article: %s"
+msgstr "Por favor indique antes los correos a los que quiere enviar este artículo: %s"
+
+msgid "Enter one email per line. No more than %s emails."
+msgstr "Entre un correo por línea. No más de %s correos."
+
+msgid "Sorry, but you have not provided a name. Please refresh the current page and then retry."
+msgstr "Perdón pero no ha dado un nombre, Por favor, refresque la página y re inténtelo."
+
+msgid "%s has recommended this article to you: %s"
+msgstr "%s ha recomendado este artículo para ti: %s"
+
+msgid "Here is an extract of the article:"
+msgstr "Este es un extracto del artículo:"
+
+msgid "Wordpress is unable to send an email to %s"
+msgstr "Wordpress no puede enviar un correo a %s"
+
+msgid "Display the social buttons as a widget."
+msgstr "Mostrar botones sociales como un widget."
+
+msgid "Add SocialLinkz buttons"
+msgstr "Agrega botones SocialLinkz"
+
+msgid "Insight provides metrics around your content. See %s for futher details. To identify your Facebook ID, please visit the previous link and then click on Statistic of my website."
+msgstr "Insight proporciona métricas en torno a su contenido. Vea %s para más detalles adicionales. Para identificar el ID de Facebook, por favor visite el enlace anterior y a continuación, haga clic en Estadísticas de mi página web."
+
+msgid "You may use an user id, an app id or a page id."
+msgstr "Puede usar un identificador de usuario, un ID de aplicación o un identificador de página."
+
+msgid "Number of minutes between two refreshes:"
+msgstr "Número de minutos entre dos actualizaciones:"
+
+msgid "Page to be excluded:"
+msgstr "Página para ser excluida:"
+
+msgid "Please enter one entry per line. If the page %s is to be excluded, you may enter %s."
+msgstr "Por favor, introduzca una entrada por línea. Si la página %s se excluye, puede introducir %s."
+
+msgid "What is your name?"
+msgstr "¿Cuál es su nombre?"
+

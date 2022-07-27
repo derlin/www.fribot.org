@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-07-23T07:02:52+00:00\n"
+"Last-Translator: BRENDON-75 <info@keytoplay.it>\n"
+"Last-Translator: BRENDON-75 <http://www.keytoplay.it/>\n"
+"Last-Translator: StefanoBontempi <Ste.Bontempi@gmail.comwww.stefanobontempi.it>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: Italy\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "This plugin help you sharing on the social network by adding facebook or twitter buttons."
+msgstr "Questo plugin ti aiuterà a condividere i tuoi contenuti sui Social Network."
+
+msgid "Display %s button?"
+msgstr "Mostrare il bottone %s?"
+
+msgid "The %s button:"
+msgstr "Il bottone %s:"
+
+msgid "To share the post on %s !"
+msgstr "Per condividere su %s !"
+
+msgid "Show the counter of this %s button:"
+msgstr "Mostra il contatore sul bottone %s:"
+
+msgid "The official %s button:"
+msgstr "Il bottone ufficiale %s:"
+
+msgid "The SSL websites may not work properly with this official button... Moreover the rendering is not perfect !"
+msgstr "I siti con SSL potrebbero non funzionare correttamente con questo bottone ufficiale... Inoltre il rendering non sarà perfetto !"
+
+msgid "Show the counter of this official %s button:"
+msgstr "Mostra il contatore sul bottone ufficiale %s:"
+
+msgid "Your %s pseudo:"
+msgstr "Il tuo ID %s:"
+
+msgid "Your FaceBook ID to enable Insight:"
+msgstr "Il tuo ID Facebook per abilitare Insights:"
+
+msgid "Insight provides metrics around your content. See %shere%s for futher details. To identify your Facebook ID, please visit the previous link and then click on Statistic of my website"
+msgstr "Insights mostrerà statistiche sui tuoi contenuti. Clicca %squi%s per ulteriori dettagli. Per identificare il tuo ID Facebook, visita il link precedente e clicca su &quot;Insights per il tuo sito Web&quot;."
+
+msgid "Display all these buttons in the excerpt ?"
+msgstr "Mostrare tutti i bottoni negli excerpt?"
+
+msgid "These buttons should be displayed in excerpt:"
+msgstr "Questi bottoni verranno mostrati negli excerpt:"
+
+msgid "Where do you want to display the buttons in post ?"
+msgstr "In quale parte del post vuoi mostrare questi bottoni?"
+
+msgid "At the Top:"
+msgstr "In alto:"
+
+msgid "At the Bottom:"
+msgstr "In basso:"
+
+msgid "Parameters"
+msgstr "Parametri"
+
+msgid "Manage translations"
+msgstr "Gestisci traduzioni"
+
+msgid "Give feedback"
+msgstr "Assegna feedback"
+
+msgid "Other plugins"
+msgstr "Altri plugins"
+
+msgid "Share -%s- on Facebook"
+msgstr "Condividi -%s- su Facebook"
+
+msgid "Share -%s- on Twitter"
+msgstr "Condividi -%s- Su Twitter"
+
+msgid "Tweet"
+msgstr "Tweet"
+
+msgid "Print"
+msgstr "Stampa"
+
+msgid "Share -%s- on %s"
+msgstr "Condividi -%s- su %s"
+
+msgid "Default image:"
+msgstr "Immagine predefinita:"
+
+msgid "%s requires that an image is pinned. By default, the plugin will take the first image in the post but if there is not any image, this image will be used."
+msgstr "%s richiede che un&#039;immagine sia pinnata. Di default, il plugin prenderà la prima immagine presente nell&#039;articolo, se non ci sono immagini verrà utilizzata questa."
+
+msgid "Where do you want to display the buttons in page ?"
+msgstr "In quale parte dell&#039;immagine vuoi mostrare questi bottoni?"
+
+msgid "Where do you want to display the buttons in page?"
+msgstr "In quale parte della pagina vuoi mostrare i bottoni?"
+
+msgid "Advanced options"
+msgstr "Opzioni avanzate"
+
+msgid "HTML:"
+msgstr "HTML"
+
+msgid "CSS:"
+msgstr "CSS"
+
+msgid "Default CSS is : %s"
+msgstr "Il CSS di default é: %s"
+

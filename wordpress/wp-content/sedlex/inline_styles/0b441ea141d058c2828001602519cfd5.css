@@ -1,0 +1,431 @@
+
+/*====================================================*/
+/* FILE /plugins/social-linkz/core/css/diff_admin.css*/
+/*====================================================*/
+/* 
+VersionDiffCss : 1.0
+*/
+
+.numbering li.numbering_li {
+	font-size:1em;
+	line-height:1em ; 
+	color:#222222 ;
+	margin: 0px ; 
+	padding: 0px ; 
+	background-image:none ; 
+}
+
+.numbering li.numbering_li:last-child {
+	font-size:1em;
+	line-height:1em ; 
+	color:#222222 ;
+	margin: 0px ; 
+	padding: 0px ; 
+	background-image:none ; 
+}
+
+.diff_result pre {
+    font-size: 1em;
+    line-height: 13px;
+    margin: 0;
+    padding: 0;
+}
+
+.diff_del {
+	background-color:#D19275 ; 
+	color:#8E2323 ;
+	text-decoration:line-through;
+}
+
+.diff_ins {
+	background-color:#A2CD5A ; 
+	color:#2F4F2F ;
+}
+
+.diff_result {
+	border-style:solid;
+	border-width:1px;
+	border-color:#CCCCCC ; 
+	margin : 20px ;
+	padding : 20px ; 
+	font-family: "Courier New", "Courier", "Lucida Console", "Consolas" ; 
+}
+
+.diff_hr {
+	border: 1px solid #AAAAAA;
+	width: 80%;
+}
+
+/*====================================================*/
+/* FILE /plugins/social-linkz/core/css/msgbox_admin.css*/
+/*====================================================*/
+.infoSedLex, .successSedLex, .warningSedLex, .errorSedLex {
+border: 1px solid;
+margin: 3px 3px;
+padding:10px 5px 10px 50px;
+background-repeat: no-repeat;
+background-position: 10px center;
+}
+.infoSedLex {
+color: #00529B;
+background-color: #BDE5F8;
+background-image: url('../../social-linkz/core/img/info.png');
+}
+.successSedLex {
+color: #4F8A10;
+background-color: #DFF2BF;
+background-image:url('../../social-linkz/core/img/success.png');
+}
+.warningSedLex {
+color: #9F6000;
+background-color: #FEEFB3;
+background-image: url('../../social-linkz/core/img/warning.png');
+}
+.errorSedLex {
+color: #D8000C;
+background-color: #FFBABA;
+background-image: url('../../social-linkz/core/img/error.png');
+}
+
+/*====================================================*/
+/* FILE /plugins/social-linkz/core/css/otherplugins_admin.css*/
+/*====================================================*/
+div.screenshot_wordpress {
+	border: 1px solid #999999;
+	margin: 3px 3px;
+	padding:10px 10px 10px 10px;
+	position:relative;
+	float:left ; 
+}
+
+div.screenshot_wordpress .screenshot {
+  /* Code standard */ 
+  max-width: 100px; 
+  max-height: 100px; 
+ 
+  /* Code spécial IE */ 
+  _width: expression((this.offsetWidth>=this.offsetHeight) ? 
+      Math.min(parseInt(this.offsetWidth), 100 ) : true); 
+  _height: expression((this.offsetHeight>this.offsetWidth) ? 
+      Math.min(parseInt(this.offsetHeight), 100 ) : true);
+}
+
+div.description_wordpress ul {
+	list-style: disc;
+	padding-left: 2em;
+}
+
+/*====================================================*/
+/* FILE /plugins/social-linkz/core/css/parameters_admin.css*/
+/*====================================================*/
+.paramLine {
+	padding-left:20px;
+	padding-top:5px;
+	padding-bottom:0px;
+	line-height:12px;
+}
+
+.paramComment {
+	padding-left:50px;
+	padding-top:5px;
+	padding-bottom:0px;
+	line-height:12px;
+	color:#A4A4A4; 
+}
+
+/*====================================================*/
+/* FILE /plugins/social-linkz/core/css/popup_admin.css*/
+/*====================================================*/
+#backgroundPopup{  
+	display:none;  
+	position:fixed;  
+	_position:absolute; /* hack for internet explorer 6*/  
+	height:100%;  
+	width:100%;  
+	top:0;  
+	left:0;  
+	background:#000000;  
+	border:1px solid #cecece;  
+	z-index:1000;  
+}  
+
+#popupForm{  
+	display:none;  
+	position:fixed;
+	top:50px ; 
+    bottom:50px ; 
+    left:50px;
+    right:50px;
+	background:#DDDDDD;  
+	padding:10px;  
+	z-index:1001;  
+}  
+
+#innerPopupForm {
+	position:absolute;
+	top:34px ; 
+    bottom:5px ; 
+    left:5px;
+    right:5px;
+    z-index:1002;
+	background:#FFFFFF;
+	overflow:auto ; 
+	padding:10px;  
+}
+
+
+#titlePopupForm {
+	position:absolute;
+	top:0px ; 
+	left:0px ; 
+	right:31px;
+	height:32px ;
+	background:#999999;
+	background-image:url('../../social-linkz/core/img/title_popup.png');
+	background-repeat:repeat-x;
+	z-index:1002;
+	padding:0px ; 
+	padding-left:20px ;
+}
+
+#titlePopupForm p {
+   font-size:15px ;
+   padding:0px ; 
+   margin:0px ; 
+   line-height:31px ; 
+}
+
+
+#popupContentArea {
+	text-align:left;  
+}
+
+#popupFormClose{  
+	right:0px;  
+	top:0px;  
+	height:32px ;
+	width:31px ; 
+	position:absolute;    
+	display:block;  
+	background:#999999;
+
+}  
+
+/*====================================================*/
+/* FILE /plugins/social-linkz/core/css/post_admin.css*/
+/*====================================================*/
+.adminPost {font:12px/1.3em Helvetica, Arial, sans-serif;}
+
+.adminPost h1, .adminPost h2, .adminPost h3, .adminPost h4, .adminPost h5, .adminPost h6  { margin:1em 0 0.5em; }
+.adminPost h1  {font-size: 2em ; line-height: 1.3em ;} 
+.adminPost h2  {font-size: 1.8em; line-height: 1.3em ;} 
+.adminPost h3  {font-size: 1.6em; line-height: 1.1em ;} 
+.adminPost h4  {font-size: 1.2em; line-height: 0.9em ;} 
+.adminPost h5  {font-size: 1em; } 
+.adminPost h6  {font-size: 0.8em; }
+
+.adminPost p  { margin-bottom: 0.7em; font-size: 12px; }
+
+.adminPost a:link, .adminPost a:visited  { color: #000; text-decoration:none;}
+.adminPost a:hover {text-decoration:underline;}
+
+.adminPost ul  { margin-bottom: 0.4em; padding: 0 0 0 30px; }
+.adminPost ul ul  { margin: 0; }
+.adminPost ul li  {	list-style-type: disc; }
+.adminPost ul ul li  { list-style-type: circle; }
+
+.adminPost ol  { margin-bottom: 0.4em; padding: 0 0 0 30px; }
+.adminPost ol ol  { margin: 0; }
+.adminPost  ol li  { list-style-type: decimal; }
+.adminPost  ol li ol li  { list-style-type: lower-latin; }
+
+.adminPost img.aligncenter  { margin-left:auto; margin-right:auto; display:block; }
+
+.adminPost .tableofcontent {
+	border: 1px solid #AAAAAA;
+	padding: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	font-size: 0.95em;
+	min-width:200px;
+	float:left ; 
+}
+
+
+.adminPost .tableofcontent h6 {
+	text-align: center;
+	font-size: 1em;
+	font-weight: bold;
+	margin : 3px ; 
+	padding-top : 5px ;
+	padding-bottom : 5px ;
+}	
+.adminPost .tableofcontent p {
+	margin : 3px ; 
+	line-height:7pt;
+	padding-top : 2px ; 
+}
+.adminPost .tableofcontent ul, .tableofcontent ol {
+	list-style: none;
+	padding: 0;
+}
+.adminPost .tableofcontent ul ul, .tableofcontent ol ol {
+	margin: 0 0 0 2em;
+}
+.adminPost .tableofcontent-end {
+	clear: both;
+}
+
+
+/*====================================================*/
+/* FILE /plugins/social-linkz/core/css/tabs_admin.css*/
+/*====================================================*/
+/* 
+VersionTabsCss : 1.0
+*/
+
+#blc-tabs {
+	margin-top: 0.5em;
+}
+
+/* Tab navigation */
+.tabsSL > ul {
+	margin-bottom: -1px;
+	padding-left: 1.5em;
+}
+
+.tabsSL > ul li {
+	display: inline-block;
+	margin: 0 0.5em 0 0;
+	
+	border: 1px solid #DFDFDF;
+	
+	background: none repeat scroll 0 0 #F4F4F4;
+	
+	border-top-right-radius: 6px;
+	border-top-left-radius: 6px;
+	
+	-moz-border-radius-topright: 6px;
+	-moz-border-radius-topleft: 6px;
+	
+	-webkit-border-top-right-radius: 6px;
+	-webkit-border-top-left-radius: 6px;
+	
+	font-weight: bold;
+	text-shadow: 0 1px 0 #FFFFFF;
+}
+
+.tabsSL > ul li.ui-tabs-active {
+	background: white;
+	color: black;
+	border-bottom-color: white;
+}
+
+.tabsSL > ul li a {
+	display: inline-block;
+	padding: 0.5em 1em 0.6em 1em;
+	text-decoration: none;
+	color: #C1C1C1;
+}
+
+.tabsSL > ul li.ui-tabs-active a {
+	color: black;
+} 
+
+/* Tab panels */
+
+.tabsSL div.blc-section {
+	border: 1px solid #DFDFDF;
+	border-top-width: 1px;
+	padding: 1em;
+	
+	background: white;
+	
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	
+	-moz-border-radius-topright: 6px;
+	-moz-border-radius-bottomright: 6px;
+	-moz-border-radius-bottomleft: 6px;
+	
+	-webkit-border-top-right-radius: 6px;
+	-webkit-border-bottom-right-radius: 6px;
+	-webkit-border-bottom-left-radius: 6px;
+}
+
+/*====================================================*/
+/* FILE /plugins/social-linkz/core/css/translation_admin.css*/
+/*====================================================*/
+/* 
+VersionTranslationCss : 1.0
+*/
+
+.pt_flag {
+	display:block;
+	float:left ; 
+	width:18px ; 
+	height:12px ; 
+	margin:0px 10px ; 
+	background:url('../../social-linkz/core/img/flags_sprite.png') no-repeat;
+}
+
+
+
+/*====================================================*/
+/* FILE /plugins/social-linkz/core/css/tree_admin.css*/
+/*====================================================*/
+ul.tree, ul.tree ul { 
+	list-style-type: none; 
+	background: url("../../social-linkz/core/img/tree_vline.png") repeat-y; 
+	margin: 0; padding: 0; 
+} 
+
+ul.tree ul { 
+	margin-left: 10px; 
+} 
+
+ul.tree li { 
+	margin: 0; 
+	padding: 0 12px; 
+	line-height: 20px; 
+	background: url("../../social-linkz/core/img/tree_node.png") no-repeat; 
+} 
+
+ul.tree li:last-child { 
+	background: #fff url("../../social-linkz/core/img/tree_lastnode.png") no-repeat; 
+}
+
+ul.tree li.minus_folder { 
+	background: url("../../social-linkz/core/img/tree_node_minus.png") no-repeat; 
+}
+
+ul.tree li.plus_folder { 
+	background: url("../../social-linkz/core/img/tree_node_plus.png") no-repeat; 
+}
+
+ul.tree li.minus_folder:last-child { 
+	background: #fff url("../../social-linkz/core/img/tree_lastnode_minus.png") no-repeat; 
+}
+
+ul.tree li.plus_folder:last-child { 
+	background: #fff url("../../social-linkz/core/img/tree_lastnode_plus.png") no-repeat; 
+}
+
+ul.tree div.loading { 
+	padding-left:18px ; 
+	background: url("../../social-linkz/core/img/ajax-loader.gif") no-repeat left 3px; 
+}
+
+.highlight_placeholder {
+	border: 1px solid #A1A1A1 ; 
+	height:15px;
+	width:200px;
+}
+
+

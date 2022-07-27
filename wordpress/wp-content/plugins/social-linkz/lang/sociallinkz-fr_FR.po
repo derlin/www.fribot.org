@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-04-07T15:49:20+00:00\n"
+"Last-Translator: SedLex <http://www.sedlex.fr/>\n"
+"Last-Translator: JP <http://architectedelalumiere.fr>\n"
+"Last-Translator: ChristopheReverd <http://www.cedit.ca>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: France\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "Display the social buttons as a widget."
+msgstr ""
+
+msgid "Add SocialLinkz buttons"
+msgstr "Ajouter les boutons SocialLinkz"
+
+msgid "This plugin help you sharing on the social network by adding facebook or twitter buttons."
+msgstr "Ce plugin vous permet de partager sur les réseaux sociaux en ajoutant des boutons comme facebook ou Twitter"
+
+msgid "It is possible to manually insert the buttons in your post by adding the shortcode %s or %s"
+msgstr ""
+
+msgid "Display %s button?"
+msgstr "Afficher le bouton %s"
+
+msgid "The %s button:"
+msgstr "Le bouton %s :"
+
+msgid "To share the post on %s !"
+msgstr "Pour partager l&#039;article sur %s !"
+
+msgid "Show the counter of this %s button:"
+msgstr "Montrer le compteur de ce bouton %s :"
+
+msgid "The official %s button:"
+msgstr "Le bouton officiel %s :"
+
+msgid "The SSL websites may not work properly with this official button... Moreover the rendering is not perfect !"
+msgstr "Les sites SSL peuvent ne pas fonctionner parfaitement avec ce bouton ... De plus l&#039;affichage n&#039;est pas homogène !"
+
+msgid "Show the counter of this official %s button:"
+msgstr "Montrer le compteur de ce bouton officiel %s :"
+
+msgid "Your %s pseudo:"
+msgstr "Votre pseudo %s :"
+
+msgid "Your FaceBook ID to enable Insight:"
+msgstr "Votre identifiant FaceBook pour activer Insight :"
+
+msgid "Insight provides metrics around your content. See %s for futher details. To identify your Facebook ID, please visit the previous link and then click on Statistic of my website."
+msgstr ""
+
+msgid "You may use an user id, an app id or a page id."
+msgstr ""
+
+msgid "Your API key to be able to retrieve the counts (visit %s):"
+msgstr ""
+
+msgid "Default image:"
+msgstr "Image par défaut"
+
+msgid "%s requires that an image is pinned. By default, the plugin will take the first image in the post but if there is not any image, this image will be used."
+msgstr "%s requiert qu&#039;une image soit épinglée. Par défaut, le plugin utilisera la première image de l&#039;article, mais si il n&#039;y a pas d&#039;image, celle-ci sera utilisée"
+
+msgid "The maximum number of emails for each mailing:"
+msgstr "Nombre maximum de destinataires pour chaque envoi:"
+
+msgid "The name used to send the email:"
+msgstr "Nom à utiliser lors de l&#039;envoi du courriel:"
+
+msgid "The mail address used to send the email:"
+msgstr "Adresse de courriel utilisée lors de l&#039;envoi du courriel:"
+
+msgid "You may use the admin email %s, a noreply address such as %s or any other email"
+msgstr "Vous pouvez utiliser l&#039;adresse de courriel de l&#039;administrateur %s, l&#039;adresse d&#039;un automate telle que %s ou n&#039;importe quelle autre adresse à votre convenance"
+
+msgid "Display all these buttons in the excerpt?"
+msgstr "Afficher les boutons dans les extraits ?"
+
+msgid "These buttons should be displayed in excerpt:"
+msgstr "Ces boutons doivent être affiché dans les extraits :"
+
+msgid "Where do you want to display the buttons in post?"
+msgstr "Où voulez-vous que les boutons soient affichés dans l&#039;article ?"
+
+msgid "At the Top:"
+msgstr "En haut :"
+
+msgid "At the Bottom:"
+msgstr "En bas :"
+
+msgid "Where do you want to display the buttons in page?"
+msgstr "Où voulez-vous que les boutons soient affichés dans la page ?"
+
+msgid "Advanced options"
+msgstr "Options avancées"
+
+msgid "Number of minutes between two refreshes:"
+msgstr ""
+
+msgid "HTML:"
+msgstr "HTML:"
+
+msgid "Default HTML is : %s with %s the displayed buttons"
+msgstr "Le code HTML par défaut est : %s avec les %s buttons affichés"
+
+msgid "CSS:"
+msgstr "CSS:"
+
+msgid "Default CSS is : %s"
+msgstr "Le fichier CSS par défaut est : %s"
+
+msgid "Page to be excluded:"
+msgstr ""
+
+msgid "Please enter one entry per line. If the page %s is to be excluded, you may enter %s."
+msgstr ""
+
+msgid "Parameters"
+msgstr "Paramètres"
+
+msgid "Manage translations"
+msgstr "Gérer les traductions"
+
+msgid "Give feedback"
+msgstr "Donner un feedback"
+
+msgid "Other plugins"
+msgstr "Autres plugins"
+
+msgid "Share -%s- on %s"
+msgstr "Partager -%s- sur %s"
+
+msgid "Tweet"
+msgstr "Tweeter"
+
+msgid "Print"
+msgstr "Imprimer"
+
+msgid "Mail"
+msgstr "Courriel"
+
+msgid "Send this article by email"
+msgstr "Envoyer cet article par courriel"
+
+msgid "What is your name?"
+msgstr "Quel est votre nom"
+
+msgid "Please indicate below the emails to which you want to send this article: %s"
+msgstr "Veuillez indiquer ci-dessous les adresses courriel de ceux à qui vous souhaitez envoyer cet article: %s"
+
+msgid "Enter one email per line. No more than %s emails."
+msgstr "Entrez une adresse courriel par ligne sans dépasser un total de %s."
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Sending Report"
+msgstr "Transmission du rapport"
+
+msgid "Sorry, but you have not provided a name. Please refresh the current page and then retry."
+msgstr "Désolé, mais vous n&#039;avez pas mentionné de nom. Veuillez actualiser la page actuelle et essayer à nouveau."
+
+msgid "%s has recommended this article to you: %s"
+msgstr "%s vous recommande cet article: %s"
+
+msgid "Here is an extract of the article:"
+msgstr "Voici un extrait de l&#039;article:"
+
+msgid "Email successfully sent to %s"
+msgstr "Courriel envoyé avec succès à %s"
+
+msgid "Wordpress is unable to send an email to %s"
+msgstr "Wordpress ne peut envoyer un courriel à %s"
+

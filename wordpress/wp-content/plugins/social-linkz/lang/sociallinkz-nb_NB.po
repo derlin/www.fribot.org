@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-04-07T15:59:04+00:00\n"
+"Last-Translator: Hkon <hakon.fanebust@hotmail.com>\n"
+"Last-Translator: Hakon <hakon.fanebust@hotmail.com>\n"
+"Last-Translator: MohamedBoyeJalloJamboria <mbjalj@online.no>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Norwegian (Bokmal)\n"
+"X-Poedit-Country: Norway\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "Display the social buttons as a widget."
+msgstr ""
+
+msgid "Add SocialLinkz buttons"
+msgstr ""
+
+msgid "This plugin help you sharing on the social network by adding facebook or twitter buttons."
+msgstr "Dette innstikket hjelper deg å dele til sosiale nettverk ved å legge til knapper for Facebook eller Twitter."
+
+msgid "It is possible to manually insert the buttons in your post by adding the shortcode %s or %s"
+msgstr ""
+
+msgid "Display %s button?"
+msgstr "Vise %s-knapp?"
+
+msgid "The %s button:"
+msgstr "%s-knappen"
+
+msgid "To share the post on %s !"
+msgstr "For å dele innlegget på %s!"
+
+msgid "Show the counter of this %s button:"
+msgstr "Vis telleren for denne %s-knappen:"
+
+msgid "The official %s button:"
+msgstr "Den offisielle %s-knappen:"
+
+msgid "The SSL websites may not work properly with this official button... Moreover the rendering is not perfect !"
+msgstr "Nettsteder som benytter SSL virker kanskje ikke skikkelig med denne offisielle knappen... Det vil si, rendringen er ikke perfekt!"
+
+msgid "Show the counter of this official %s button:"
+msgstr "Vis telleren for denne offisielle %s-knappen:"
+
+msgid "Your %s pseudo:"
+msgstr "Ditt %s-pseudo:"
+
+msgid "Your FaceBook ID to enable Insight:"
+msgstr "Faceboo ID-en din for aktivere Insight:"
+
+msgid "Insight provides metrics around your content. See %s for futher details. To identify your Facebook ID, please visit the previous link and then click on Statistic of my website."
+msgstr ""
+
+msgid "You may use an user id, an app id or a page id."
+msgstr ""
+
+msgid "Your API key to be able to retrieve the counts (visit %s):"
+msgstr ""
+
+msgid "Default image:"
+msgstr ""
+
+msgid "%s requires that an image is pinned. By default, the plugin will take the first image in the post but if there is not any image, this image will be used."
+msgstr ""
+
+msgid "The maximum number of emails for each mailing:"
+msgstr ""
+
+msgid "The name used to send the email:"
+msgstr ""
+
+msgid "The mail address used to send the email:"
+msgstr ""
+
+msgid "You may use the admin email %s, a noreply address such as %s or any other email"
+msgstr ""
+
+msgid "Display all these buttons in the excerpt?"
+msgstr ""
+
+msgid "These buttons should be displayed in excerpt:"
+msgstr "Disse knappene skal vises i utdrag:"
+
+msgid "Where do you want to display the buttons in post?"
+msgstr ""
+
+msgid "At the Top:"
+msgstr "På toppen:"
+
+msgid "At the Bottom:"
+msgstr "På bunnen:"
+
+msgid "Where do you want to display the buttons in page?"
+msgstr ""
+
+msgid "Advanced options"
+msgstr ""
+
+msgid "Number of minutes between two refreshes:"
+msgstr ""
+
+msgid "HTML:"
+msgstr ""
+
+msgid "Default HTML is : %s with %s the displayed buttons"
+msgstr ""
+
+msgid "CSS:"
+msgstr ""
+
+msgid "Default CSS is : %s"
+msgstr ""
+
+msgid "Page to be excluded:"
+msgstr ""
+
+msgid "Please enter one entry per line. If the page %s is to be excluded, you may enter %s."
+msgstr ""
+
+msgid "Parameters"
+msgstr "Parametere"
+
+msgid "Manage translations"
+msgstr "Behandle oversettelser"
+
+msgid "Give feedback"
+msgstr "Gi tilbakemelding"
+
+msgid "Other plugins"
+msgstr "Andre innstikk"
+
+msgid "Share -%s- on %s"
+msgstr "Del -%s på %s"
+
+msgid "Tweet"
+msgstr "Twitre"
+
+msgid "Print"
+msgstr "Skriv ut"
+
+msgid "Mail"
+msgstr ""
+
+msgid "Send this article by email"
+msgstr ""
+
+msgid "What is your name?"
+msgstr ""
+
+msgid "Please indicate below the emails to which you want to send this article: %s"
+msgstr "Angi nedenfor e-poster dem som du ønsker å sende denne artikkelen: %s"
+
+msgid "Enter one email per line. No more than %s emails."
+msgstr "Angi én e-post per linje. Ikke mer enn %s e-poster."
+
+msgid "Close"
+msgstr "slutt"
+
+msgid "Send"
+msgstr "sende"
+
+msgid "Sending Report"
+msgstr "sende Rapporter"
+
+msgid "Sorry, but you have not provided a name. Please refresh the current page and then retry."
+msgstr "Beklager, men du har ikke gitt et navn. Vennligst oppdater gjeldende side og deretter prøve på nytt."
+
+msgid "%s has recommended this article to you: %s"
+msgstr "%s har anbefalt denne artikkelen til deg: %s"
+
+msgid "Here is an extract of the article:"
+msgstr "Her er et utdrag av artikkelen:"
+
+msgid "Email successfully sent to %s"
+msgstr "E-post sendt til %s"
+
+msgid "Wordpress is unable to send an email to %s"
+msgstr "Wordpress er ikke  i stand til å sende en e-post til %s"
+
